@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>5.Sayfam</title>
+</head>
+<body>
+<strong><u><font color="#FF0000" face="tahoma">Kardeşler Lokantası Menüsü</font></u></strong><br/><br/>
+<ol type="1">
+<li>Çorbalar</li>
+<ol type="a">
+<li>Ezogelin...............5TL</li>
+<li>Mercimek...............5TL</li>
+<li>Tavuk Suyu.............5TL</li>
+<li>İşkembe................6TL</li>
+</ol>
+<li>Ana Yemekler</li>
+<ol type="A">
+<li>Sebzeliler</li>
+<ol type="i">
+<li>Ispanak.................7TL</li>
+<li>Karnıbahar..............6TL</li>
+</ol>
+<li>Etliler</li>
+<ol type="I">
+<li>Karnıyarık...............9TL</li>
+<li>Ali Nazik................10TL</li>
+<li>Pideli Köfte.............12TL</li>
+</ol>
