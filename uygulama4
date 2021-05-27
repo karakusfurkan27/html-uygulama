@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>4.Sayfam</title>
+</head>
+<body>
+<ol type="1"start="10">
+<li>Galatasaray</li>
+<li>GaziantepFK</li>
+<li>Beşiktaş</li>
+<li>Trabzon</li>
+<li>Bursaspor</li>
+</ol>
+<br/><br/>
+<ul type="disc">
+<li>Galatasaray</li>
+<li>GaziantepFK</li>
+<li>Beşiktaş</li>
+<li>Trabzon</li>
+<li>Bursaspor</li>
+</ul>
+</body>
+</html>
