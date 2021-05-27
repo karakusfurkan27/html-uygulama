@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>8.Sayfam</title>
+</head>
+<body>
+<table border="1" width="200" height="25" bgcolor="#ff0000">
+<tr>
+<td align="center"><font color="#ffffff">1</font></td>
+<td align="center"><font color="#ffffff">2</font></td>
+<td align="center"><font color="#ffffff">3</font></td>
+</tr>
+<tr>
+<td align="center"><font color="#ffffff">4</font></td>
+<td align="center"><font color="#ffffff">5</font></td>
+<td align="center"><font color="#ffffff">6</font></td>
+</tr>
+<tr>
+<td align="center"><font color="#ffffff">7</font></td>
+<td align="center"><font color="#ffffff">8</font></td>
+<td align="center"><font color="#ffffff">9</font></td>
+</tr>
+</table>
+<br/><br/><br/><br/>
+
+
+<table border="2" width="300" height="150">
+<tr>
+<td colspan="3" bgcolor="#ff0000"></td>
+</tr>
+<tr>
+<td bgcolor="#00ff00"></td>
+<td bgcolor="#ff00ff"></td>
+<td bgcolor="#8B2252"></td>
+</tr>
+<tr>
+<td bgcolor="#f0f0f0"></td>
+<td bgcolor="#00F5FF"></td>
+<td bgcolor="#ffff00"></td>
+</tr>
+</table>
